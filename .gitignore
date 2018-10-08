@@ -1,0 +1,19 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+.settings
+*.iml
+out
+gen
+target
+.classpath
+.project
+/checkpoint
+/data
+/flume-poll
+/flume-push
+/sparkReceiver
+/sparkDirect
